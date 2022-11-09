@@ -1,0 +1,60 @@
+
+h1{
+    background-color: rgb(10, 109, 167);
+    text-align: center;
+    border-radius: 10%;
+    font-size: xx-large;
+}
+h2{
+    font-size: xx-large;
+    color: rgb(77, 72, 29);
+    width: 40%;
+}
+
+.ledis{
+    width: 20%;
+    border-radius: 10%;
+    background-color: rgb(51, 64, 73); 
+    padding: 5%;
+ 
+    
+}
+
+.inicio{
+    text-align: center;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    text-align: start;
+    align-items: center;
+}
+
+
+.box{
+    width: 45%;
+    margin: 13%;
+    border: 2px solid rgb(146, 117, 117);
+    border-radius: 43px;
+    padding: 40px;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    
+}
+.proximos-caja{
+    display: flex;
+    justify-content: center;
+  
+}
+.descripcion-1{
+    border: solid;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 6%;
+    color: rgb(15, 14, 14);
+    background-color: bisque;
+    
+}
