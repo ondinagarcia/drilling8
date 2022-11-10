@@ -9,13 +9,19 @@ h2{
     font-size: xx-large;
     color: rgb(77, 72, 29);
     width: 40%;
+    margin-right: 80%;
 }
 
 .ledis{
-    width: 20%;
+    width: 30%;
     border-radius: 10%;
     background-color: rgb(51, 64, 73); 
     padding: 5%;
+    margin: 15%;
+    display: flex;
+    justify-content: center;
+
+
  
     
 }
@@ -28,8 +34,6 @@ h2{
     text-align: start;
     align-items: center;
 }
-
-
 .box{
     width: 45%;
     margin: 13%;
@@ -39,13 +43,17 @@ h2{
     background-color: bisque;
     display: flex;
     justify-content: center;
-    
 }
+    
+
+
+
 .proximos-caja{
     display: flex;
     justify-content: center;
   
 }
+
 .descripcion-1{
     border: solid;
     border-radius: 50px;
